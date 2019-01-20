@@ -1,0 +1,42 @@
+*  { margin: 0; box-sizing: border-box; }
+
+body {
+	font-size: 16px;
+	line-height: 32px;
+	font-family: Garamond;
+	color: whitesmoke;
+}
+
+h1 {
+	font-size: 1.5rem;
+	color: #0079b3;
+	background-color: #001823;
+}
+
+h2 {
+	font-size: 1.2rem;
+	text-align: center;
+	border-bottom: 1px solid #bbb;
+}
+
+header, main, footer {
+	margin: 1.25rem auto;
+	padding: .5rem;
+	max-width: 900px;
+}
+
+header, footer, footer a {
+	text-align: center;
+	background-color: whitesmoke;
+	color: #0079b3;
+}
+
+header img {
+	width: auto;
+	height: auto;
+	float: right;
+}
+
+footer {
+	font-size: 0.7rem;
+}
