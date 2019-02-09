@@ -1,0 +1,58 @@
+@charset "utf-8"
+
+*  { margin: 0; box-sizing: border-box; }
+
+h1 {
+	font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    color: #d5d7dd;
+    background-color: #2b5394;
+}
+
+nav {
+	font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    color: #d5d7dd;
+    background-color: #60ab5d;
+}
+
+h2 {
+	font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    color: #d5d7dd;
+    background-color: #60ab5d;
+}
+
+h3 {
+	font-size: 25px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #2b5394;
+    background-color: #d5d7dd
+}
+
+h4 {
+	font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    color: #2b5394;
+    background-color: #d5d7dd
+}
+
+body {
+	font-size: 16px;
+    font-family: 'Montserrat', 'Open Sans Condensed', sans-serif;
+    color: #2b5394;
+    background-color: #d5d7dd
+}
+
+header img {
+	width: auto;
+	height: auto;
+	float: left;
+}
+
+footer {
+	font-size: 15px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #2b5394;
+    background-color: #d5d7dd
+}
