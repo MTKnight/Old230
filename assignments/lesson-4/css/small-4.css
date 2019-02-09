@@ -3,18 +3,19 @@
 *  { margin: 0; box-sizing: border-box; }
 
 header {
-	font-size: 40px;
+    font-size: 50px;
+    line-height: 75px;
     font-family: 'Montserrat', sans-serif;
     color: #d5d7dd;
     background-color: #2b5394;
 }
 
 a:link {
-    color: #1c94a3
+    color: #d5d7dd
 }
 
 a:visited {
-    color: #cc7a00
+    color: #d5d7dd
 }
 
 a:hover {
@@ -26,14 +27,14 @@ a:active {
 }
 
 nav {
-	font-size: 30px;
-    font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+    font-family: 'Open Sans Condensed', sans-serif;
     color: #d5d7dd;
     background-color: #60ab5d;
 }
 
 h1 {
-	font-size: 30px;
+	font-size: 25px;
     font-family: 'Montserrat', sans-serif;
     color: #d5d7dd;
     background-color: #60ab5d;
